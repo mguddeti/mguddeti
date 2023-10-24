@@ -1,5 +1,5 @@
 # Suhas Guddeti
 
-Software Engineer at [CollectivAI](https://collectivai.com/) and [Texas Torque](https://github.com/texastorque).
+Software Engineer at Texas Torque and Collectiv.
 
 Visit [suhasg.com](https://www.suhasg.com/).
