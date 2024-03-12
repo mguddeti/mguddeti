@@ -1,5 +1,5 @@
 # Suhas Guddeti
 
-Software Engineer at Texas Torque.
+Software Engineer.
 
 Visit [suhasg.com](https://www.suhasg.com/).
