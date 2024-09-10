@@ -1,6 +1,6 @@
 # Milan Guddeti
 
-SWE on the Data Processing team @ Axo.
+SWE @ Axo.
 
 CS and Mathematics @ [Texas A&M](https://www.tamu.edu/)
 
