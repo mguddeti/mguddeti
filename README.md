@@ -2,9 +2,9 @@
 
 CS and Mathematics @ [Texas A&M](https://www.tamu.edu/)
 
-Building high-performance systems.
+My work is in low-latency software, distributed systems, and compilers.
 
-Working on [MongoDB](https://github.com/mongodb/) this summer.
+Working at [MongoDB](https://github.com/mongodb/) this summer.
 
 My projects are private.
 
