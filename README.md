@@ -6,6 +6,6 @@ My work is in low-latency software, distributed systems, and compilers.
 
 Working at [MongoDB](https://github.com/mongodb/) this summer.
 
-My projects are private.
+My work is private.
 
 <!--For projects, visit [suhasg.com](https://www.suhasg.com/).-->
