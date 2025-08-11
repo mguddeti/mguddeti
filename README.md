@@ -2,9 +2,9 @@
 
 CS and Mathematics @ [Texas A&M](https://www.tamu.edu/)
 
-My work is in low-latency software, distributed systems, and compilers.
+Software Engineer @ [MongoDB](https://github.com/mongodb)
 
-Worked at [MongoDB](https://github.com/mongodb/) this summer.
+My work is in low-latency software, distributed systems, and compilers.
 
 My work is private.
 
