@@ -2,7 +2,7 @@
 
 CS and Mathematics @ [Texas A&M](https://www.tamu.edu/)
 
-Formerly @ [MongoDB](https://github.com/mongodb)
+Software Engineer @ [MongoDB](https://github.com/mongodb)
 
 My work is in low-latency software, distributed systems, and compilers.
 
