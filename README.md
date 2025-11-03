@@ -2,10 +2,8 @@
 
 CS and Mathematics @ [Texas A&M](https://www.tamu.edu/)
 
-Software Engineering Intern @ [MongoDB](https://github.com/mongodb)
-
 My work is in low-latency software and distributed systems.
 
-My work is private.
+I will be joining [Bloomberg](https://www.bloomberg.com/company/) next summer in New York City. I have previously worked for [MongoDB](https://www.mongodb.com/).
 
-<!--For projects, visit [suhasg.com](https://www.suhasg.com/).-->
+My work is private.
