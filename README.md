@@ -2,6 +2,6 @@
 
 CS and Mathematics @ [Texas A&M](https://www.tamu.edu/)
 
-My interests include distributed systems and compilers.
+My interests include distributed systems, compilers, and networks.
 
-I work at [Bloomberg](https://www.bloomberg.com/company/) in New York City. I have previously worked for [MongoDB](https://www.mongodb.com/).
+I will be joining [Susquehanna International Group](https://sig.com/) in Philadelphia. I have previously worked for [Bloomberg](https://www.bloomberg.com/company/) and [MongoDB](https://www.mongodb.com/) in New York.
